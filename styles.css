@@ -1,8 +1,11 @@
-h1{
+div.main{
 	width:200px;
 	background:purple;
 	border-left:5px solid green;
 	padding:10px;
+}
+
+div#heading, div.heading{
 	color:white;
 	font-size:20px;
 }
